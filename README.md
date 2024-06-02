@@ -3,5 +3,5 @@ languages im learning
 - [x] C++
 - [ ] C
 - [x] CSS, HTML
-- [ ] JavaScript
+- [x] JavaScript
 - [ ] Java
