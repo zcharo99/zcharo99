@@ -1,7 +1,7 @@
 languages im learning
 - [x] Python
-- [x] C++
-- [ ] C
+- [] C++
+- [x ] C
 - [x] CSS, HTML
 - [x] JavaScript
 - [ ] Java
